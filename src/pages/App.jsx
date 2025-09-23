@@ -15,9 +15,9 @@ export default function App() {
         <CustomerSection />
         <FeaturesSection />
         <ServicesSection />
-        <TestimonialsSection /> 
-        <Footer /> 
+        <TestimonialsSection />
       </main>
+      <Footer />
     </>
   );
 }

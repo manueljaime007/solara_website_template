@@ -26,7 +26,7 @@ export const Banner = () => {
                     <div className="p-10 ml-4 text-white mb-20">
                         <small>#1 Energy Provider in the world</small>
 
-                        <h2 className="text-5xl my-4 font-bold w-80">New Energy for the Future</h2>
+                        <h2 className="text-5xl my-4 font-bold w-90">New Energy for the Future</h2>
 
                         <div className="mt-6 flex gap-5">
                             <BannerButton text={"Get in touch"} />

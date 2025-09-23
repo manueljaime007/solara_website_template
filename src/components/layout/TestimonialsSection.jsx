@@ -3,7 +3,7 @@ import { CTAButton } from '../ui/CTAButton'
 
 const TestimonialsSection = () => {
     return (
-        <section className='py-10 px-25 flex flex-col items-center justify-center gap-10'>
+        <section className='py-10  flex flex-col items-center justify-center gap-10'>
             <h2 className='text-center text-3xl w-100'>
                 See how we solve problems,
                 <span className='ml-2 text-gray-400'>right on target</span>
