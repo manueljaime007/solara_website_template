@@ -35,8 +35,7 @@ export const Navbar = () => {
                         order="primary"
                         path="/login"
                         text="Log in"
-                    />
-                    
+                    />                    
                     <NavButton
                         order="secondary"
                         path="/contact"
